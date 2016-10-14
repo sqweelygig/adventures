@@ -3,7 +3,7 @@ Adventures outside php
 
 Abstract
 --------
-A comparision of experiences within several languages.  The immediate aim of this to inform a presentation or short series of lightning talks.
+A comparision of experiences within several languages.  The immediate aim of this is to inform a presentation or short series of lightning talks.
 * What makes them different, especially comparing to php?
 * What purposes they are be particularly appropriate for?
 * What do they teach us about development, especially web?

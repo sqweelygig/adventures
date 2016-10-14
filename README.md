@@ -10,7 +10,6 @@ A comparision of experiences within several languages.  The immediate aim of thi
 
 Contributing
 ------------
-Please do!
 1. Add your coverage below
 2. Add any contact details and attribution you wish advertised to \contributors
   * Template available under \templates, please respect or improve this template

@@ -1,9 +1,12 @@
-adventures outside php
+Adventures outside php
 ======================
 
 Abstract
 --------
-A project looking at comparing experiences within several languages.  Seeking to look at what they teach us about development as a whole, what purposes they are be particularly appropriate for, and how these lessons could benefit php development.
+A comparision of experiences within several languages.  The immediate aim of this to inform a presentation or short series of lightning talks.
+* What do they teach us about development as a whole?
+* What purposes they are be particularly appropriate for?
+* What lessons from these could benefit php development?
 
 Current contributors and coverage
 ---------------------------------
